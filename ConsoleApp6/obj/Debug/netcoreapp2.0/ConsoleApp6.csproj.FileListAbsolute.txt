@@ -1,0 +1,11 @@
+D:\Workspace2\testes\Exercicios\ConsoleApp1\ConsoleApp6\bin\Debug\netcoreapp2.0\ConsoleApp6.deps.json
+D:\Workspace2\testes\Exercicios\ConsoleApp1\ConsoleApp6\bin\Debug\netcoreapp2.0\ConsoleApp6.runtimeconfig.json
+D:\Workspace2\testes\Exercicios\ConsoleApp1\ConsoleApp6\bin\Debug\netcoreapp2.0\ConsoleApp6.runtimeconfig.dev.json
+D:\Workspace2\testes\Exercicios\ConsoleApp1\ConsoleApp6\bin\Debug\netcoreapp2.0\ConsoleApp6.dll
+D:\Workspace2\testes\Exercicios\ConsoleApp1\ConsoleApp6\bin\Debug\netcoreapp2.0\ConsoleApp6.pdb
+D:\Workspace2\testes\Exercicios\ConsoleApp1\ConsoleApp6\obj\Debug\netcoreapp2.0\ConsoleApp6.csprojAssemblyReference.cache
+D:\Workspace2\testes\Exercicios\ConsoleApp1\ConsoleApp6\obj\Debug\netcoreapp2.0\ConsoleApp6.csproj.CoreCompileInputs.cache
+D:\Workspace2\testes\Exercicios\ConsoleApp1\ConsoleApp6\obj\Debug\netcoreapp2.0\ConsoleApp6.AssemblyInfoInputs.cache
+D:\Workspace2\testes\Exercicios\ConsoleApp1\ConsoleApp6\obj\Debug\netcoreapp2.0\ConsoleApp6.AssemblyInfo.cs
+D:\Workspace2\testes\Exercicios\ConsoleApp1\ConsoleApp6\obj\Debug\netcoreapp2.0\ConsoleApp6.dll
+D:\Workspace2\testes\Exercicios\ConsoleApp1\ConsoleApp6\obj\Debug\netcoreapp2.0\ConsoleApp6.pdb

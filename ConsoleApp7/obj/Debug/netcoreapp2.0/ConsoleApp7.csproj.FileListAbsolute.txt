@@ -1,0 +1,11 @@
+D:\Workspace2\testes\Exercicios\ConsoleApp1\ConsoleApp7\bin\Debug\netcoreapp2.0\ConsoleApp7.deps.json
+D:\Workspace2\testes\Exercicios\ConsoleApp1\ConsoleApp7\bin\Debug\netcoreapp2.0\ConsoleApp7.runtimeconfig.json
+D:\Workspace2\testes\Exercicios\ConsoleApp1\ConsoleApp7\bin\Debug\netcoreapp2.0\ConsoleApp7.runtimeconfig.dev.json
+D:\Workspace2\testes\Exercicios\ConsoleApp1\ConsoleApp7\bin\Debug\netcoreapp2.0\ConsoleApp7.dll
+D:\Workspace2\testes\Exercicios\ConsoleApp1\ConsoleApp7\bin\Debug\netcoreapp2.0\ConsoleApp7.pdb
+D:\Workspace2\testes\Exercicios\ConsoleApp1\ConsoleApp7\obj\Debug\netcoreapp2.0\ConsoleApp7.csprojAssemblyReference.cache
+D:\Workspace2\testes\Exercicios\ConsoleApp1\ConsoleApp7\obj\Debug\netcoreapp2.0\ConsoleApp7.csproj.CoreCompileInputs.cache
+D:\Workspace2\testes\Exercicios\ConsoleApp1\ConsoleApp7\obj\Debug\netcoreapp2.0\ConsoleApp7.AssemblyInfoInputs.cache
+D:\Workspace2\testes\Exercicios\ConsoleApp1\ConsoleApp7\obj\Debug\netcoreapp2.0\ConsoleApp7.AssemblyInfo.cs
+D:\Workspace2\testes\Exercicios\ConsoleApp1\ConsoleApp7\obj\Debug\netcoreapp2.0\ConsoleApp7.dll
+D:\Workspace2\testes\Exercicios\ConsoleApp1\ConsoleApp7\obj\Debug\netcoreapp2.0\ConsoleApp7.pdb

@@ -1,0 +1,11 @@
+D:\Workspace2\testes\Exercicios\ConsoleApp1\ConsoleApp5\bin\Debug\netcoreapp2.0\ConsoleApp5.deps.json
+D:\Workspace2\testes\Exercicios\ConsoleApp1\ConsoleApp5\bin\Debug\netcoreapp2.0\ConsoleApp5.runtimeconfig.json
+D:\Workspace2\testes\Exercicios\ConsoleApp1\ConsoleApp5\bin\Debug\netcoreapp2.0\ConsoleApp5.runtimeconfig.dev.json
+D:\Workspace2\testes\Exercicios\ConsoleApp1\ConsoleApp5\bin\Debug\netcoreapp2.0\ConsoleApp5.dll
+D:\Workspace2\testes\Exercicios\ConsoleApp1\ConsoleApp5\bin\Debug\netcoreapp2.0\ConsoleApp5.pdb
+D:\Workspace2\testes\Exercicios\ConsoleApp1\ConsoleApp5\obj\Debug\netcoreapp2.0\ConsoleApp5.csproj.CoreCompileInputs.cache
+D:\Workspace2\testes\Exercicios\ConsoleApp1\ConsoleApp5\obj\Debug\netcoreapp2.0\ConsoleApp5.AssemblyInfoInputs.cache
+D:\Workspace2\testes\Exercicios\ConsoleApp1\ConsoleApp5\obj\Debug\netcoreapp2.0\ConsoleApp5.AssemblyInfo.cs
+D:\Workspace2\testes\Exercicios\ConsoleApp1\ConsoleApp5\obj\Debug\netcoreapp2.0\ConsoleApp5.dll
+D:\Workspace2\testes\Exercicios\ConsoleApp1\ConsoleApp5\obj\Debug\netcoreapp2.0\ConsoleApp5.pdb
+D:\Workspace2\testes\Exercicios\ConsoleApp1\ConsoleApp5\obj\Debug\netcoreapp2.0\ConsoleApp5.csprojAssemblyReference.cache
