@@ -20,24 +20,29 @@ namespace ConsoleApp7
             }
             if (resposta == 1)
             {
-                Console.WriteLine("Numero matricula.");
-                var matricula = Console.ReadLine();
-                Console.WriteLine("Nome.");
-                var nome = Console.ReadLine();
-                Console.WriteLine("Email.");
-                var email = Console.ReadLine();
-                Console.WriteLine("Curso.");
-                var curso = Console.ReadLine();
-                Console.WriteLine("Telefone.");
-                var telefone = Console.ReadLine();
-                Console.WriteLine("Endereço.");
-                var endereco = Console.ReadLine();
+                while (string.IsNullOrEmpty(entrada) || int.TryParse(entrada, out resposta) && resposta == 1)
+                {
+                    Console.WriteLine("Numero matricula.");
+                    var matricula = Console.ReadLine();
+                    Console.WriteLine("Nome.");
+                    var nome = Console.ReadLine();
+                    Console.WriteLine("Email.");
+                    var email = Console.ReadLine();
+                    Console.WriteLine("Curso.");
+                    var curso = Console.ReadLine();
+                    Console.WriteLine("Telefone.");
+                    var telefone = Console.ReadLine();
+                    Console.WriteLine("Endereço.");
+                    var endereco = Console.ReadLine();
 
-                Aluno a2 = new Aluno(matricula, nome, email, curso, telefone, endereco);
-                a2.AdicionarAluno(a2);
-                a2.ListarAlunos();
+                    Aluno a2 = new Aluno(matricula, nome, email, curso, telefone, endereco);
+                    a2.AdicionarAluno(a2);
 
+                    Console.WriteLine("Cadastrar mais aluno?\n 1 - Sim\n 2 - Não");
+                    entrada = Console.ReadLine();
+                }
             }
+            
 
             Console.ReadKey();
         }
