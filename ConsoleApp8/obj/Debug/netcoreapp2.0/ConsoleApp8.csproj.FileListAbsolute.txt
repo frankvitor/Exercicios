@@ -1,0 +1,10 @@
+D:\Workspace2\testes\Exercicios\ConsoleApp8\bin\Debug\netcoreapp2.0\ConsoleApp8.deps.json
+D:\Workspace2\testes\Exercicios\ConsoleApp8\bin\Debug\netcoreapp2.0\ConsoleApp8.runtimeconfig.json
+D:\Workspace2\testes\Exercicios\ConsoleApp8\bin\Debug\netcoreapp2.0\ConsoleApp8.runtimeconfig.dev.json
+D:\Workspace2\testes\Exercicios\ConsoleApp8\bin\Debug\netcoreapp2.0\ConsoleApp8.dll
+D:\Workspace2\testes\Exercicios\ConsoleApp8\bin\Debug\netcoreapp2.0\ConsoleApp8.pdb
+D:\Workspace2\testes\Exercicios\ConsoleApp8\obj\Debug\netcoreapp2.0\ConsoleApp8.csproj.CoreCompileInputs.cache
+D:\Workspace2\testes\Exercicios\ConsoleApp8\obj\Debug\netcoreapp2.0\ConsoleApp8.AssemblyInfoInputs.cache
+D:\Workspace2\testes\Exercicios\ConsoleApp8\obj\Debug\netcoreapp2.0\ConsoleApp8.AssemblyInfo.cs
+D:\Workspace2\testes\Exercicios\ConsoleApp8\obj\Debug\netcoreapp2.0\ConsoleApp8.dll
+D:\Workspace2\testes\Exercicios\ConsoleApp8\obj\Debug\netcoreapp2.0\ConsoleApp8.pdb
