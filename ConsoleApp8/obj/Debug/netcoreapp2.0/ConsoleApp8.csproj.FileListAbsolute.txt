@@ -8,3 +8,4 @@ D:\Workspace2\testes\Exercicios\ConsoleApp8\obj\Debug\netcoreapp2.0\ConsoleApp8.
 D:\Workspace2\testes\Exercicios\ConsoleApp8\obj\Debug\netcoreapp2.0\ConsoleApp8.AssemblyInfo.cs
 D:\Workspace2\testes\Exercicios\ConsoleApp8\obj\Debug\netcoreapp2.0\ConsoleApp8.dll
 D:\Workspace2\testes\Exercicios\ConsoleApp8\obj\Debug\netcoreapp2.0\ConsoleApp8.pdb
+D:\Workspace2\testes\Exercicios\ConsoleApp8\obj\Debug\netcoreapp2.0\ConsoleApp8.csprojAssemblyReference.cache
