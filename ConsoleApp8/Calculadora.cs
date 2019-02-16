@@ -40,5 +40,18 @@ namespace ConsoleApp8
                 Console.WriteLine($"{numero}^{i} = {resultado}");
             }
         }
+        public void Baskara(double a, double b, double c)
+        {
+            double delta_p1 = Math.Sqrt(b * b);
+            double delta_p2 = Math.Sqrt(4 * a * c);
+
+            double delta = (delta_p1 - delta_p2);
+
+            double a1 = (-b + (delta)) / (2 * a);
+            double a2 = (-b - (delta)) / (2 * a);
+
+            Console.WriteLine("a1 = " + a1);
+            Console.WriteLine("a2 = " + a2);
+        }
     }
 }

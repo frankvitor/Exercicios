@@ -7,7 +7,7 @@ namespace ConsoleApp8
         static void Main(string[] args)
         {
             Calculadora calc = new Calculadora();
-            double valor1, valor2;
+            double valor1, valor2, valor3;
             int operacao, potencia, numero;
             string entrada;
 
@@ -15,7 +15,7 @@ namespace ConsoleApp8
             Console.WriteLine("*** Para iniciar a operação basta primeiro digitar um numero\n na sequencia escolher a operação desejada e digitar o próximo valor***\n\n");
             Console.ResetColor();
 
-            Console.WriteLine("1 - Operação Comum\n2 - Potenciação");
+            Console.WriteLine("1 - Operação Comum\n2 - Potenciação\n3 - Baskara");
             var opcao = Console.ReadLine();
 
             if (int.TryParse(opcao, out operacao) && operacao == 2)
@@ -60,6 +60,28 @@ namespace ConsoleApp8
                 {
                     calc.Multiplicar(valor1, valor2);
                 }
+            }
+            else if(int.TryParse(opcao, out operacao) && operacao == 3)
+            {
+                Console.WriteLine("Baskara");
+                Console.WriteLine("Valor A");
+                var vlrA = Console.ReadLine();
+                double.TryParse(vlrA, out valor1);
+
+                Console.WriteLine("Valor B");
+                var vlrB = Console.ReadLine();
+                double.TryParse(vlrB, out valor2);
+
+                Console.WriteLine("Valor C");
+                var vlrC = Console.ReadLine();
+                double.TryParse(vlrC, out valor3);
+
+                calc.Baskara(valor1, valor2, valor3);
+
+            }
+            else
+            {
+                Console.WriteLine("Não foi possível");
             }
             Console.ReadKey();
         }
